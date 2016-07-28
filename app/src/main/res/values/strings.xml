@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PeajeGuate</string>
+    <string name="main.button.submit">Calcular</string>
+    <string name="main.hint.bill">Monto del billete</string>
+    <string name="main.hint.percentage">Costo vehiculo</string>
+    <string name="main.button.increase">Camion</string>
+    <string name="main.button.decrease">Trailer</string>
+    <string name="main.button.car">Carro</string>
+    <string name="main.button.clear">Borrar registro</string>
+    <string name="main.notice.clear">Elementos recientes ha quedado vacío</string>
+    <string name="main.menu.action.about">Buenas Noticias </string>
+    <string name="detail.message.bill">Total %,.1f</string>
+    <string name="global.message.tip">Vuelto %,.1f</string>
+</resources>
